@@ -36,6 +36,10 @@
     "rewire-webpack": "^1.0.0",
     "underscore": "^1.7.0",
     "underscore-template-loader": "^0.2.4",
-    "webpack": "^1.5.3"
+    "webpack": "^1.5.3",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "grunt-webpack": "^1.0.11"
   }
 }
